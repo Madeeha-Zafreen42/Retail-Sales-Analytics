@@ -98,7 +98,7 @@ High-performing product categories contribute significantly to overall profitabi
 
 Increase the visibility of Technology products through targeted marketing campaigns, bundled offers, and inventory planning while reviewing the profitability of lower-performing categories.
 
-![Product Category Analysis](Images/product_category_analysis.png)
+![Product Category Analysis](Images/Product_Category.png)
 
 ### 3. Which Region Performs the Best?
 
