@@ -130,7 +130,7 @@ Recognizing seasonal demand patterns enables better inventory planning, staffing
 
 Prepare inventory, logistics, and marketing campaigns ahead of the Q4 sales season to effectively meet increased customer demand.
 
-![Seasonal Sales Analysis](Images/Seasonal_Sales_Analysis.png)
+![Seasonal Sales Analysis](Images/Seasonal_Sales_Insights.png)
 
 ### 5. How Does Average Order Value Change Over Time?
 
