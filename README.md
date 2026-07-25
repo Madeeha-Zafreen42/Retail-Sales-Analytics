@@ -114,7 +114,7 @@ Understanding the factors behind the West region's performance can help improve 
 
 Analyze successful sales practices in the West region and replicate them in lower-performing regions to improve overall business performance.
 
-![Regional Analysis](Images/regional_analysis.png)
+![Regional Analysis](Images/Regional_Insights.png)
 
 ### 4. Are There Seasonal Trends in Sales?
 
@@ -130,7 +130,7 @@ Recognizing seasonal demand patterns enables better inventory planning, staffing
 
 Prepare inventory, logistics, and marketing campaigns ahead of the Q4 sales season to effectively meet increased customer demand.
 
-![Seasonal Sales Analysis](Images/seasonal_sales_analysis.png)
+![Seasonal Sales Analysis](Images/Seasonal_Sales_Analysis.png)
 
 ### 5. How Does Average Order Value Change Over Time?
 
@@ -146,7 +146,7 @@ A stable Average Order Value indicates consistent customer purchasing behavior w
 
 Investigate purchasing patterns during Q1 and identify strategies such as product bundles or cross-selling to increase order value throughout the year.
 
-![Order Value Analysis](Images/order_value_analysis.png)
+![Order Value Analysis](Images/Order_Value_Analysis.png)
 
 ### 6. What Operational Improvements Can Be Made?
 
@@ -162,4 +162,4 @@ Reducing fulfillment delays and investigating product returns can improve custom
 
 Review fulfillment processes for Standard Class shipments and analyze the root causes of high return rates to improve operational performance.
 
-![Operational Insights](Images/operational_insights.png)
+![Operational Insights](Images/Operational_Insights.png)
