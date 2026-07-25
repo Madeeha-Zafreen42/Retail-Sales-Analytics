@@ -82,7 +82,7 @@ Maintaining customer satisfaction and retention within this segment is essential
 
 Prioritize marketing campaigns, loyalty programs, and customer engagement initiatives for Consumer customers while exploring opportunities to increase purchases from other segments.
 
-![Customer Segment Analysis](Images/customer_segment_analysis.png)
+![Customer Segment Analysis](Images/Customer_Insights.png)
 
 ### 2. Which Product Category Performs the Best?
 
